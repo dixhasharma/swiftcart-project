@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 import { useParams } from 'react-router-dom'
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 
 
 export default function DSpecificCategoryProducts() {
@@ -34,7 +34,7 @@ export default function DSpecificCategoryProducts() {
                             {/* yeh link khul raha /product/kuch bhi pe */}
                             {/* hum route main already bata chuky k /product/kuch bhi kidher khuly ga */}
                             {/* agar yeh link khuly ga to hollow2 pe id jayegi us card ki */}
-                            <Link to={`/products/${val.id}`} className='nav-link'>
+                            {/* <Link to={`/products/${val.id}`} className='nav-link'> */}
                             <Card >
                                 <Card.Img variant="top" className='img-fluid' src={val.thumbnail}/>
                                 <Card.Body>
@@ -42,10 +42,10 @@ export default function DSpecificCategoryProducts() {
                                     <Card.Text>
                                         {val.description}
                                     </Card.Text>
-                                    <Button variant="primary">Go somewhere</Button>
+                                    {/* <Button variant="primary">Go somewhere</Button> */}
                                 </Card.Body>
                             </Card>
-                            </Link>
+                            {/* </Link> */}
                         </div>
                     )
                 }

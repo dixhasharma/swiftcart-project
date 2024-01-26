@@ -24,7 +24,8 @@ export default function HeaderSection() {
                     </div>
                     <div className="container">
                         <h1 className="text-white">
-                            Lorem ipsum dolor sit.
+                            "Discover a universe of Tech wonders "<br></br>
+                            <span>-where electrons meet innovation.</span>
                         </h1>
                         <p className="text-secondary">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora facilis explicabo, soluta dolore non commodi? Eaque sunt veniam blanditiis quasi, accusamus numquam voluptates maxime necessitatibus reprehenderit vero ullam quo amet.</p>
                     </div>
