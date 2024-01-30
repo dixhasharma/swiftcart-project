@@ -26,7 +26,7 @@ export default function CategorySection() {
                 {/* container has 2 DIVS HEADINGS AND CARD */}
                 <div className="text-center my-5">
                     <h1>OUR TRENDING CATEGORIES</h1>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Est reprehenderit perferendis voluptatibus autem repudiandae incidunt consectetur vitae inventore alias ullam eaque praesentium aspernatur, adipisci, odit velit quis animi iste aliquid.</p>
+                    <p> thsi is our website for getting in toich with anyon so hope u like it this coulf dypou hrlp in oyur very decade this is yhe bst imn myLorem ipsum dolor, sit amet consectetur adipisicing elit. Est reprehenderit perferendis voluptatibus autem repudiandae incidunt consectetur vitae inventore alias ullam eaque praesentium aspernatur, adipisci, odit velit quis animi iste aliquid.</p>
                 </div>
                 <div className="row">
 
