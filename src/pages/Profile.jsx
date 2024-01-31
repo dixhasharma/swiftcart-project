@@ -13,9 +13,8 @@ export default function Profile() {
     <div className="container text-center">PROFILE</div>
 
     <div className="container my-5">
-
-    
-    {/* <Card style={{ width: '18rem' }}>
+     
+     <Card style={{ width: '18rem' }}>
       <Card.Body>
         <Card.Title>{state.user?.email}</Card.Title>
         <Card.Subtitle className="mb-2 text-muted">{state.user?.address}</Card.Subtitle>
@@ -26,7 +25,7 @@ export default function Profile() {
         <Card.Link href="#">Card Link</Card.Link>
         <Card.Link href="#">Another Link</Card.Link>
       </Card.Body>
-    </Card> */}
+    </Card> 
     
     </div>
     </>
