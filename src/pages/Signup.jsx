@@ -144,7 +144,7 @@ export default function Signup() {
             />
           </div>
 
-          <div className="form-check">
+          {/* <div className="form-check">
             <input
               type="checkbox"
               className="form-check-input"
@@ -186,7 +186,7 @@ export default function Signup() {
             <label htmlFor="css" className="form-check-label">
               CSS
             </label>
-          </div>
+          </div> */}
 
           <div className="col-12">
             <button type="submit" className="btn btn-primary">

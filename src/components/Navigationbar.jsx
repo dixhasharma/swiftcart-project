@@ -26,7 +26,7 @@ export default function Navigationbar() {
               height="30"
               className="d-inline-block align-top rounded-circle"
             />{' '}
-            ByteHub
+            ArshHub
           </Navbar.Brand>
         
         
