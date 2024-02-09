@@ -144,49 +144,6 @@ export default function Signup() {
             />
           </div>
 
-          {/* <div className="form-check">
-            <input
-              type="checkbox"
-              className="form-check-input"
-              id="html"
-              value="HTML"
-              checked={form_state.skills.includes("HTML")}
-              onChange={handleskillchange}
-            />
-            <label htmlFor="HTML" className="form-check-label">
-              HTML
-            </label>
-          </div>
-
-          <div className="form-check">
-            <input
-              type="checkbox"
-              className="form-check-input"
-              id="js"
-              value="JS"
-              name="JS"
-              checked={form_state.skills.includes("JS")}
-              onChange={handleskillchange}
-            />
-            <label htmlFor="js" className="form-check-label">
-              JS
-            </label>
-          </div>
-
-          <div className="form-check">
-            <input
-              type="checkbox"
-              className="form-check-input"
-              id="css"
-              value="CSS"
-              name="CSS"
-              checked={form_state.skills.includes("CSS")}
-              onChange={handleskillchange}
-            />
-            <label htmlFor="css" className="form-check-label">
-              CSS
-            </label>
-          </div> */}
 
           <div className="col-12">
             <button type="submit" className="btn btn-primary">
